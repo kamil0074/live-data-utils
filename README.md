@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/kamil0074/livedatautils.svg?branch=master)](https://travis-ci.com/kamil0074/livedatautils)
