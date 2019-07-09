@@ -1,0 +1,2 @@
+include ':livedatautils'
+rootProject.name='Live Data Utils'
