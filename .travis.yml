@@ -28,5 +28,5 @@ android:
     - sys-img-x86-android-26
     - sys-img-${ANDROID_ABI}-${ANDROID_TARGET}
 
-    script:
-      - ./gradlew build
+script:
+  - ./gradlew build
