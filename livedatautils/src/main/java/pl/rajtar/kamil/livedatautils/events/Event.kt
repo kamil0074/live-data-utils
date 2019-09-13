@@ -1,4 +1,4 @@
-package pl.rajtar.kamil.livedatautils
+package pl.rajtar.kamil.livedatautils.events
 
 import java.util.concurrent.atomic.AtomicBoolean
 

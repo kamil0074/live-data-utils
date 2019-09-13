@@ -1,4 +1,4 @@
-package pl.rajtar.kamil.livedatautils
+package pl.rajtar.kamil.livedatautils.events
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

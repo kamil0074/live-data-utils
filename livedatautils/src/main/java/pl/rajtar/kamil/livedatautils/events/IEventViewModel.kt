@@ -1,4 +1,4 @@
-package pl.rajtar.kamil.livedatautils
+package pl.rajtar.kamil.livedatautils.events
 
 import androidx.lifecycle.LiveData
 

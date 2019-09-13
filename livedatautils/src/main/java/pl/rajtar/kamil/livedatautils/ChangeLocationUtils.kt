@@ -4,6 +4,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData
 import androidx.navigation.NavController
 import androidx.navigation.NavDirections
+import pl.rajtar.kamil.livedatautils.events.Event
 
 fun <T:Any> LiveData<Event<T>>.setUpChangeLocationLiveData(
 		lifecycleOwner:LifecycleOwner,
